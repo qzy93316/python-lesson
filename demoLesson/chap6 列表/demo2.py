@@ -10,7 +10,7 @@ print(lst[0])
 
 """创建列表的第二种方式，使用内置函数list()"""
 lst2=list(['hello','world',98,'hello'])
-print(lst2[-4])
+print(lst2[-1])
 """
 列表的特点：
 列表元素按顺序有序排序
