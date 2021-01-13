@@ -32,4 +32,4 @@ print(10 in r) #False 10不在当前的r这个整数序列中
 print(9 in r)
 print(10 not in r)
 
-
+    
